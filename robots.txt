@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-tour-operators-falkland-islands.com/sitemap.xml
