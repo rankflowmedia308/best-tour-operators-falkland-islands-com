@@ -15,10 +15,7 @@
 .hero__bg {
   position: absolute;
   inset: 0;
-  background:
-    linear-gradient(to bottom, rgba(13,27,42,.35) 0%, rgba(13,27,42,.75) 100%),
-    linear-gradient(135deg, #0d1b2a 0%, #1b3a5c 100%);
-  /* replaced by real image when available */
+  background: linear-gradient(135deg, #0d1b2a 0%, #1b3a5c 100%);
 }
 
 .hero__bg-img {
@@ -26,8 +23,10 @@
   inset: 0;
   width: 100%;
   height: 100%;
+  max-width: none;
   object-fit: cover;
-  object-position: center 60%;
+  object-position: center 55%;
+  display: block;
 }
 
 .hero__overlay {
