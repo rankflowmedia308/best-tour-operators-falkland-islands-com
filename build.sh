@@ -121,7 +121,7 @@ SCHEMA_INDEX=$(cat <<'JSONLD'
       "name": "Best Tour Operators Falkland Islands 2026 – Verified Guide",
       "description": "Compare the 10 best tour operators for the Falkland Islands in 2026. Expedition cruises + local Stanley guides, prices, reviews and expert tips.",
       "datePublished": "2026-01-01",
-      "dateModified": "2026-05-04",
+      "dateModified": "2026-06-24",
       "author": {"@type": "Organization", "name": "Falklands Tour Guide Editorial Team"},
       "inLanguage": "en"
     },
